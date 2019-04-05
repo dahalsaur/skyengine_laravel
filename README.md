@@ -1,6 +1,6 @@
-### SkyEngine
+## SkyEngine
 
-## Implementation of a flight search website in Laraval, a PHP framework.
+# Implementation of a flight search website in Laraval, a PHP framework.
 
 ## About Laravel
 
